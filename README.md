@@ -35,6 +35,8 @@ Researchers who collect public social posts for analysis.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-scrape` | A first scrape: search queries and result fields |
